@@ -1,0 +1,10 @@
+{
+    "name": "nahom/laravel",
+    "authors": [
+        {
+            "name": "Nahom Asnake",
+            "email": "nahomasnake12@gmai.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,16 @@
+.topnavContainer {
+	position:fixed;
+	width:100%;
+	top:50px;
+	z-index:9;
+	background-color:black;
+	height:40px;
+}
+.top {
+	width:100%;
+	z-index:99;
+	position:fixed;
+	height:50px;
+	top:0;
+	background-color:#ffffff;
+}
